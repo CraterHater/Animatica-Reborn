@@ -1,0 +1,11 @@
+name: Animatica_Reborn
+version: 1.0.0
+main: animatica_reborn.craterhater.main.Main
+author: CraterHater
+description: Make things move!
+api-version: 1.13
+commands:
+   cmd_animatica:
+      description: Used for command blocks
+      usage: /<command>
+      permission: animatica_reborn.cmd_animatica
